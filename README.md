@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Java | Hibernate | Spring Boot**
 
-- 👨‍💻 All of my projects are available at [https://github.com/aman6750/aman6750.github.io](https://github.com/aman6750/aman6750.github.io)
+- 👨‍💻 All of my projects are available at [https://aman6750.github.io/](https://aman6750.github.io/)
 
 - 💬 Ask me about **Coding|DSA|JAVA**
 
