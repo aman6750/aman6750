@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aman Kumar Yadav</h1>
 <h3 align="center">A passionate java backend developer .</h3>
 
-- 🌱 I’m currently learning **Java | Hibernate | Spring Boot**
+- 🌱 I’m currently learning **Java | Hibernate | Spring Boot | Flutter | Dart | JavaScript | Reactjs | Nodejs | AWS**
 
 - 👨‍💻 All of my projects are available at [https://aman6750.github.io/](https://aman6750.github.io/)
 
